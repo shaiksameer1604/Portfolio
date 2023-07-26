@@ -1,0 +1,45 @@
+html,body{
+    height:100%;
+    width:100%;
+}
+*{
+    margin:0;
+    padding:0;
+}
+.name{
+    background-color: dimgrey;
+    border: 1px solid black;
+    color:silver;
+    margin: 2px 1px;
+    padding:1px;
+}
+.education{
+    background-color: blanchedalmond;
+    border:1px solid black;
+    margin: 2px 1px;
+    padding:1px;
+}
+.achievements{
+    background-color: cornsilk;
+    border: 1px solid black;
+    margin: 2px 1px;
+    padding:1px;
+}
+.internship{
+    background-color:aliceblue;
+    border: 1px solid black;
+    margin: 2px 1px;
+    padding:1px;
+}
+.details{
+    background-color:silver;
+    border: 1px solid black;
+    margin: 2px 1px;
+    padding:1px;
+}
+.gender{
+    background-color: lightblue;
+    border: 1px solid black;
+    margin: 2px 1px;
+    padding:1px;
+}
